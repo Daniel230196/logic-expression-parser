@@ -1,4 +1,4 @@
-module github.com/mgudov/logic-expression-parser
+module github.com/Daniel230196/logic-expression-parser
 
 go 1.17
 
